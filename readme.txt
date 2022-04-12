@@ -1,2 +1,1 @@
-'hello world'
-'cats are sick'
+"hello world"
